@@ -1,4 +1,4 @@
-class Show <ActiveRecord::Base[4.2]
+class Show <ActiveRecord::Base
 
 
-end #end the show
+end # and that's the end of the show!
